@@ -1,4 +1,4 @@
-# YuLife Task Back-End Performance
+
 
 ## Scenario
 
@@ -23,13 +23,6 @@ The server this will get deployed to is a T2 Medium with x2 CPUs, and is only ca
 ### Is the app Productionized?
 
     - Make adjustments for the app to be run in production mode
-
-### Security
-
-    - Ensure that there are no run-time vulnerabilities at a code level
-    - Ensure that there are no authorisation or authentication vulnerabilities present
-    - Ensure that the app securely authenticates and authorises its users
-    - Ensure that the app uses best security practices
 
 ### Performance
 
